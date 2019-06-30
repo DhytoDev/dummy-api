@@ -10,5 +10,19 @@
       "title": "Credit Card",
       "balance": 1000000
     }
+  ],
+  "transactions": [
+    {
+      "id": 1,
+      "wallet": "Cash",
+      "category": "Cafe",
+      "amount": 50000
+    },
+    {
+      "id": 1,
+      "wallet": "Cash",
+      "category": "Transportation",
+      "amount": 30000
+    }
   ]
 }
