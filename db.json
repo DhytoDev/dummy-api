@@ -1,0 +1,14 @@
+{
+  "wallets": [
+    {
+      "id": 1,
+      "title": "Cash",
+      "balance": 500000,
+    },
+     {
+      "id": 2,
+      "title": "Credit Card",
+      "balance": 1000000,
+    },
+  ],
+}
